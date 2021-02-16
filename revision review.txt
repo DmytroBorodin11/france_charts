@@ -1,0 +1,4 @@
+1. Changed header-card color, text color as on design template.
+2. Changed text color and font-weight of the "2019" and other small text.
+3. Changed text color of the douhnut chart cards.
+4. Space between cards is always the same, cards with title have more space above.
